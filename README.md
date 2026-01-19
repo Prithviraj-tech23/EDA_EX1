@@ -73,7 +73,7 @@ source("EDAASSIGMENT1.R")
 
 ---
 
-## 📊 What the Script Does
+##  What the Script Does
 
 ### 1) Data Cleaning
 
