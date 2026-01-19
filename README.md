@@ -1,4 +1,4 @@
-````md
+
 # Student Performance Visualization (R)
 
 **Name:** P S S Prithivi Raj  
